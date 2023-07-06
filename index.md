@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Introduction to Deep Learning
+# Workshop Description
 
 Deep Learning is a rapidly expanding field with new applications found every day. In this workshop, we will cover the fundamentals of deep learning for the beginner. 
 
