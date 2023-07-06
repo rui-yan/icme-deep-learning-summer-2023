@@ -27,7 +27,7 @@ She has interned at Meta, Uber AI, and Microsoft Research.
 
 # Workshop Materials
 
-## Pre-workshop Checklist
+## Prerequisites
 
 The workshop assumes that you have requisite knowledge of:
 
