@@ -11,13 +11,13 @@ We will introduce the math behind training deep learning models: the back-propag
 There will be a hands-on computing tutorial using Jupyter notebooks to build a basic image classification model via transfer learning.  By the end of the workshop, participants will have a firm understanding of the basic terminology and jargon of deep learning and will be prepared to dive into the plethora of online resources and literature available for each specific application area.
 
 
-### Instructor
+## About the Instructor
 
 ![Aashwin Mishra](/assets/img/aashwin.png){:style="max-width:30%;"}
 
 Aashwin Mishra is a Project Scientist at the Machine Learning Initiative at the National Accelerator Laboratory (SLAC). His research focuses on uncertainty quantification, probabilistic modeling, interpretability/explainability, and optimization across physics applications.
 
-### Teaching Assistant
+## About the eTeaching Assistant
 
 ![Rui Yan](/assets/img/ruiyan.png){:style="max-width:30%;"}
 
@@ -46,7 +46,7 @@ For (b), you should be comfortable in basic linear algebra operations in Numpy, 
 
 ## Schedule
 
-#### Session 1 (Monday, August 7 8:00 AM - 11:00 AM PDT)
+#### Session 1 (Monday, August 7 | 8:00 AM - 11:00 AM PDT)
 
 - Review of basic ML concepts
 - Overview of deep learning
@@ -57,7 +57,7 @@ For (b), you should be comfortable in basic linear algebra operations in Numpy, 
 - Using the AD facilities in torch to train models
 - Using the sub-modules in torch to define and train models
 
-#### Session 2 (Tuesday, August 8 8:00 AM - 11:00 AM PDT)
+#### Session 2 (Tuesday, August 8 | 8:00 AM - 11:00 AM PDT)
 
 - Understanding Convolutional Neural Networks
 - Defining and Training CNNs in torch
@@ -73,7 +73,6 @@ For (b), you should be comfortable in basic linear algebra operations in Numpy, 
 - [Introduction to Torch](https://colab.research.google.com/drive/1b1ifUhsdo7rYeUEKBjEQkWTgWX0EgEz6?usp=sharing)
 - [My First Torch Model](https://colab.research.google.com/drive/1GLihAAAmsz1Snqt2GLg55hSO0UQWBGLM?usp=sharing)
 - [MNIST with an FCNN](https://colab.research.google.com/drive/1Wp2jWYnZ50VWBPCVEkPemUcF3ohrxrct?usp=sharing)
-- [CIFAR10 with CNNs](https://colab.research.google.com/drive/1eZniJ3FW77
 - [CIFAR10 with CNNs](https://colab.research.google.com/drive/1eZniJ3FW77cAy4U3cSieJPSq-ukMARPY?usp=sharing)
 - [CIFAR10 with GPUs](https://colab.research.google.com/drive/153nTZtmHENNTx-XLWw3kl41Shd-ZvXVJ?usp=sharing)
 - [Data Augmentation for Computer Vision](https://colab.research.google.com/drive/1Ug0STBPfwc0Q7YSBasliIJCC38y9pOVm?usp=sharing)
