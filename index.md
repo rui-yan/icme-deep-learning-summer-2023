@@ -17,7 +17,7 @@ There will be a hands-on computing tutorial using Jupyter notebooks to build a b
 
 Aashwin Mishra is a Project Scientist at the Machine Learning Initiative at the National Accelerator Laboratory (SLAC). His research focuses on uncertainty quantification, probabilistic modeling, interpretability/explainability, and optimization across physics applications.
 
-## About the eTeaching Assistant
+## About the Teaching Assistant
 
 ![Rui Yan](/assets/img/ruiyan.png){:style="max-width:30%;"}
 
@@ -64,7 +64,7 @@ For (b), you should be comfortable in basic linear algebra operations in Numpy, 
 - Using GPUs for training
 - Data Augmentation
 
-#### Google Colab notebooks
+## Google Colab notebooks
 
 - [Linear Regression Exercise in Numpy](https://colab.research.google.com/drive/1w0C62ikCOotfBJ5FbzQu4I3weu6viAmj?usp=sharing)
 - [Solutions: Linear Regression Exercise in Numpy](https://colab.research.google.com/drive/1w0C62ikCOotfBJ5FbzQu4I3weu6viAmj?usp=sharing)
