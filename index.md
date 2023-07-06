@@ -22,7 +22,7 @@ Aashwin Mishra is a Project Scientist at the Machine Learning Initiative at the 
 ![Rui Yan](/assets/img/ruiyan.png){:style="max-width:30%;"}
 
 Rui Yan is a Ph.D. candidate at Stanford ICME.
-Her research primarily involves developing representation learning algorithms for large-scale data, specifically targeting challenges in privacy preservation, high-dimensionality, and multi-modality.
+Her research involves developing representation learning algorithms for large-scale data, specifically targeting challenges in privacy preservation, high-dimensionality, and multi-modality.
 She has interned at Meta, Uber AI, and Microsoft Research.
 
 # Workshop Materials
