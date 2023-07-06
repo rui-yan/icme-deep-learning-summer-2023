@@ -11,18 +11,18 @@ We will introduce the math behind training deep learning models: the back-propag
 There will be a hands-on computing tutorial using Jupyter notebooks to build a basic image classification model via transfer learning.  By the end of the workshop, participants will have a firm understanding of the basic terminology and jargon of deep learning and will be prepared to dive into the plethora of online resources and literature available for each specific application area.
 
 
-## About the Instructor
+### Instructor
 
 ![Aashwin Mishra](/assets/img/aashwin.png){:style="max-width:30%;"}
 
 Aashwin Mishra is a Project Scientist at the Machine Learning Initiative at the National Accelerator Laboratory (SLAC). His research focuses on uncertainty quantification, probabilistic modeling, interpretability/explainability, and optimization across physics applications.
 
-## About the Teaching Assistant
+### Teaching Assistant
 
 ![Rui Yan](/assets/img/ruiyan.png){:style="max-width:30%;"}
 
 Rui Yan is a Ph.D. candidate at ICME, Stanford.
-Her research involves developing representation learning algorithms for large-scale data, specifically targeting challenges in high-dimensionality, multi-modality, and privacy preservation.
+Her research focuses on developing machine learning algorithms to extract meaningful representations from large-scale, high-dimensional and multi-modal data.
 She has interned at Meta, Uber AI, and Microsoft Research.
 
 # Workshop Materials
