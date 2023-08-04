@@ -27,7 +27,9 @@ She has interned at Meta, Uber AI, and Microsoft Research.
 
 # Workshop Materials
 
-## Prerequisites
+## Pre-workshop Checklist
+
+The Zoom link to the course can be found [here](https://stanford.zoom.us/j/97867338375?pwd=VngzV2dRRExlK1Bkcnk4TzMrN1RoZz09).
 
 The workshop assumes that you have requisite knowledge of:
 
