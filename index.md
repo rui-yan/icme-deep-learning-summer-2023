@@ -59,12 +59,16 @@ For (b), you should be comfortable in basic linear algebra operations in Numpy, 
 - Using the AD facilities in torch to train models
 - Using the sub-modules in torch to define and train models
 
+Zoom recording Day 1: [Link](https://drive.google.com/file/d/1mNy2tjWgbLwtlBXs6LCNqGNBfjU7IIXk/view?usp=sharing)
+
 #### Session 2 (Tuesday, August 8 | 8:00 AM - 11:00 AM PDT)
 
 - Understanding Convolutional Neural Networks
 - Defining and Training CNNs in torch
 - Using GPUs for training
 - Data Augmentation
+
+Zoom recording Day 2: [Link](https://stanford.zoom.us/rec/share/Am_MBUsXNUJhxPdGC0TXYEf94nWIxNGLDfQ0rDHMY5XkNr0j_oHHDytxu10C35ik.59LNlF9zFu2gXHZS?startTime=1691505782000&pwd=wIGB4YNczYrSV7kSzEt59pfXrPcvKbSP)
 
 ## Google Colab notebooks
 
@@ -78,3 +82,8 @@ For (b), you should be comfortable in basic linear algebra operations in Numpy, 
 - [CIFAR10 with CNNs](https://colab.research.google.com/drive/1eZniJ3FW77cAy4U3cSieJPSq-ukMARPY?usp=sharing)
 - [CIFAR10 with GPUs](https://colab.research.google.com/drive/153nTZtmHENNTx-XLWw3kl41Shd-ZvXVJ?usp=sharing)
 - [Data Augmentation for Computer Vision](https://colab.research.google.com/drive/1Ug0STBPfwc0Q7YSBasliIJCC38y9pOVm?usp=sharing)
+
+## References
+- [Model interpretability: SHAP](https://shap.readthedocs.io/en/latest/example_notebooks/overviews/An%20introduction%20to%20explainable%20AI%20with%20Shapley%20values.html)
+- [Model interpretability: LIME](https://arxiv.org/abs/1602.04938)
+- [Explainable AI tutorial](https://explainml-tutorial.github.io/neurips20)
